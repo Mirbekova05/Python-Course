@@ -1,5 +1,3 @@
 def greeting():
-    print("Hello, World!")
+    print("Hello, my name is Aigerim.")
 
-
-greeting()
